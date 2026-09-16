@@ -1,11 +1,11 @@
-# My LeetCode Profile 
+# My Codechef Profile 
 
 ## About
 
-This repository contains my LeetCode practice and coding progress.
+This repository contains my Codechef practice and coding progress.
 
-## LeetCode Profile
-
+## Codechef Profile
+https://www.codechef.com/users/vaniasharon_18
 
 
 ## My Goal
