@@ -5,7 +5,8 @@ This repository contains my practice on coding platforms and coding progress.
 
 ## Codechef Profile
 https://www.codechef.com/users/vaniasharon_18
-##Leetcode Profile
+
+## Leetcode Profile
 https://leetcode.com/u/vania_sharon/
 
 ## My Goal
